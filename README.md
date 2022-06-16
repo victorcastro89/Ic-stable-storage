@@ -1,3 +1,7 @@
+Fork of https://github.com/Ceto-Labs/bucket
+
+
+
 - Reserve 20MB space to store bucket index
 - The maximum available stable storage space is 8GB
 - GB level data storage, using the put interface

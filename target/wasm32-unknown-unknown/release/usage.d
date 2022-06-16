@@ -1,0 +1,1 @@
+/home/victor/code/dfinity/examples/rust/NFT/Ic-stable-storage/target/wasm32-unknown-unknown/release/usage.wasm: /home/victor/code/dfinity/examples/rust/NFT/Ic-stable-storage/src/bucket/src/lib.rs /home/victor/code/dfinity/examples/rust/NFT/Ic-stable-storage/usage/src/main.rs

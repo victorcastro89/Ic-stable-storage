@@ -1,0 +1,13 @@
+/home/victor/code/dfinity/examples/rust/NFT/Ic-stable-storage/target/debug/deps/serde_cbor-a9234a7a99604dae.rmeta: /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_cbor-0.10.2/src/lib.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_cbor-0.10.2/src/de.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_cbor-0.10.2/src/error.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_cbor-0.10.2/src/read.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_cbor-0.10.2/src/ser.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_cbor-0.10.2/src/write.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_cbor-0.10.2/src/value/mod.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_cbor-0.10.2/src/value/de.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_cbor-0.10.2/src/value/ser.rs
+
+/home/victor/code/dfinity/examples/rust/NFT/Ic-stable-storage/target/debug/deps/serde_cbor-a9234a7a99604dae.d: /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_cbor-0.10.2/src/lib.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_cbor-0.10.2/src/de.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_cbor-0.10.2/src/error.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_cbor-0.10.2/src/read.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_cbor-0.10.2/src/ser.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_cbor-0.10.2/src/write.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_cbor-0.10.2/src/value/mod.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_cbor-0.10.2/src/value/de.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_cbor-0.10.2/src/value/ser.rs
+
+/home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_cbor-0.10.2/src/lib.rs:
+/home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_cbor-0.10.2/src/de.rs:
+/home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_cbor-0.10.2/src/error.rs:
+/home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_cbor-0.10.2/src/read.rs:
+/home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_cbor-0.10.2/src/ser.rs:
+/home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_cbor-0.10.2/src/write.rs:
+/home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_cbor-0.10.2/src/value/mod.rs:
+/home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_cbor-0.10.2/src/value/de.rs:
+/home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_cbor-0.10.2/src/value/ser.rs:

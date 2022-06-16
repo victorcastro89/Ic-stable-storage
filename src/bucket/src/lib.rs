@@ -1,3 +1,4 @@
+#![allow(dead_code,unused_imports,unused_variables)]
 use bincode;
 use ic_cdk::api::stable;
 use ic_cdk::export::candid::{CandidType, Nat};
@@ -8,9 +9,10 @@ use std::collections::HashMap;
 use std::convert::TryInto;
 
 static USER_DATA: &str = "user_data";
-static mut THRESHOLD: u64 = 8589934592;
+static mut THRESHOLD: u64 = 8589934592; // 8GB
+
 // 0 - 320 is used for offset. store key index()
-static RESERVED_SPACE: u64 = 320 * MAX_PAGE_BYTE;
+static RESERVED_SPACE: u64 = 320 * MAX_PAGE_BYTE; // 20.97 Mb reserved
 static MAX_PAGE_BYTE: u64 = 65536;
 
 #[derive(CandidType, Deserialize, Debug, Clone)]
@@ -24,6 +26,7 @@ pub enum Error {
 pub struct Bucket {
     offset: u64,
     assets: HashMap<String, Vec<(u64, u64)>>, //(key,(offset len))
+   
 }
 
 impl Default for Bucket {

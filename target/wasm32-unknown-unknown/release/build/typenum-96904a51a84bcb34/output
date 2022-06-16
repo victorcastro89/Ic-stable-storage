@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/victor/code/dfinity/examples/rust/NFT/Ic-stable-storage/target/wasm32-unknown-unknown/release/build/typenum-96904a51a84bcb34/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/victor/code/dfinity/examples/rust/NFT/Ic-stable-storage/target/wasm32-unknown-unknown/release/build/typenum-96904a51a84bcb34/out/op.rs

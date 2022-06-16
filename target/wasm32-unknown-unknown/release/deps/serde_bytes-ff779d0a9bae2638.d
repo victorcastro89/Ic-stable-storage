@@ -1,0 +1,11 @@
+/home/victor/code/dfinity/examples/rust/NFT/Ic-stable-storage/target/wasm32-unknown-unknown/release/deps/serde_bytes-ff779d0a9bae2638.rmeta: /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.6/src/lib.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.6/src/bytes.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.6/src/de.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.6/src/ser.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.6/src/bytebuf.rs
+
+/home/victor/code/dfinity/examples/rust/NFT/Ic-stable-storage/target/wasm32-unknown-unknown/release/deps/libserde_bytes-ff779d0a9bae2638.rlib: /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.6/src/lib.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.6/src/bytes.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.6/src/de.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.6/src/ser.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.6/src/bytebuf.rs
+
+/home/victor/code/dfinity/examples/rust/NFT/Ic-stable-storage/target/wasm32-unknown-unknown/release/deps/serde_bytes-ff779d0a9bae2638.d: /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.6/src/lib.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.6/src/bytes.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.6/src/de.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.6/src/ser.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.6/src/bytebuf.rs
+
+/home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.6/src/lib.rs:
+/home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.6/src/bytes.rs:
+/home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.6/src/de.rs:
+/home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.6/src/ser.rs:
+/home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.6/src/bytebuf.rs:

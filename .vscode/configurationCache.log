@@ -1,0 +1,1 @@
+{"buildTargets":["build","candid","clean","deploy","format","init","lint","local","make","stop-replica","test"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}

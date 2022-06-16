@@ -13,3 +13,4 @@ serde = "1.0.136"
 num-traits = "0.2.14"
 serde_bytes = "0.11.5"
 bincode = "1.3.3"
+

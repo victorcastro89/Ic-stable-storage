@@ -1,0 +1,11 @@
+/home/victor/code/dfinity/examples/rust/NFT/Ic-stable-storage/target/wasm32-unknown-unknown/release/deps/getrandom-86b306586ea361e0.rmeta: /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/lib.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/error.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/util.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/error_impls.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/js.rs
+
+/home/victor/code/dfinity/examples/rust/NFT/Ic-stable-storage/target/wasm32-unknown-unknown/release/deps/libgetrandom-86b306586ea361e0.rlib: /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/lib.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/error.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/util.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/error_impls.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/js.rs
+
+/home/victor/code/dfinity/examples/rust/NFT/Ic-stable-storage/target/wasm32-unknown-unknown/release/deps/getrandom-86b306586ea361e0.d: /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/lib.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/error.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/util.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/error_impls.rs /home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/js.rs
+
+/home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/lib.rs:
+/home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/error.rs:
+/home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/util.rs:
+/home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/error_impls.rs:
+/home/victor/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/js.rs:

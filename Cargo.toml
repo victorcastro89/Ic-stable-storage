@@ -1,5 +1,17 @@
 [workspace]
 members = [
     "src/bucket",
-    "example"
+    "usage",
+    "playground",
+    "manager",
+    "stablememorymock",
+    "stable-structures",
+    "fileupload",
+    "fileupload/src/fileupload/types",
+      "fileupload/src/fileupload/utils",
 ]
+
+[profile.release]
+lto = true
+opt-level = "z"
+codegen-units = 1

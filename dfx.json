@@ -1,8 +1,13 @@
 {
   "canisters": {
     "example": {
-      "candid": "example/storage.did",
-      "package": "example",
+      "candid": "usage/storage.did",
+      "package": "usage",
+      "type": "rust"
+    },
+    "playground": {
+      "candid": "manager/manager.did",
+      "package": "manager",
       "type": "rust"
     }
   },
@@ -12,7 +17,7 @@
       "packtool": ""
     }
   },
-  "dfx": "0.9.3",
+  "dfx": "0.10.1",
   "networks": {
     "local": {
       "bind": "127.0.0.1:8000",
