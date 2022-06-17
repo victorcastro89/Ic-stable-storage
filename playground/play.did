@@ -1,6 +1,0 @@
-service : {
-  read : (nat64, nat64) -> (vec nat8) query;
-  stable : () -> ();
-  stablegrow : (nat64) -> (nat64);
-  stablesize : () -> (nat64) query;
-}

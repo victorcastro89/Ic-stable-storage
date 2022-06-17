@@ -7,14 +7,14 @@ init:
 	# npm --prefix test i
 	cargo check
 
-build:
-	cargo run -p manager > ./manager/manager.did       
-	# didc bind -t ts nft.did > test/factory/idl.d.ts
-	# echo "// @ts-nocheck" > test/factory/idl.ts
-	# didc bind -t js nft.did >> test/factory/idl.ts
+# build:
+# 	cargo run -p manager > ./manager/manager.did       
+# 	# didc bind -t ts nft.did > test/factory/idl.d.ts
+# 	# echo "// @ts-nocheck" > test/factory/idl.ts
+# 	# didc bind -t js nft.did >> test/factory/idl.ts
 
 deploy:
-	cargo run -p manager > ./manager/manager.did      
+	cargo run  > storage.did      
 	dfx deploy
 # build: candid
 # 	dfx ping local || dfx start --clean --background

@@ -77,7 +77,7 @@ impl<M: Memory + Clone> StableBTreeMap<M> {
         // Because we assume that we have exclusive access to the memory,
         // we can store the `BTreeHeader` at address zero, and the allocator is
         // stored directly after the `BTreeHeader`.
-        let allocator_addr = Address::from(10) + BTreeHeader::size();
+        let allocator_addr = Address::from(0) + BTreeHeader::size();
 
         let btree = Self {
             memory: memory.clone(),
@@ -99,12 +99,12 @@ impl<M: Memory + Clone> StableBTreeMap<M> {
     /// Loads the map from memory.
     pub fn load(memory: M) -> Self {
         // Read the header from memory.
-        let header: BTreeHeader = read_struct(Address::from(10), &memory);
+        let header: BTreeHeader = read_struct(Address::from(0), &memory);
         ic_cdk::println!("Header {:?}", header);
         assert_eq!(&header.magic, MAGIC, "Bad magic.");
         assert_eq!(header.version, LAYOUT_VERSION, "Unsupported version.");
 
-        let allocator_addr = Address::from(10) + BTreeHeader::size();
+        let allocator_addr = Address::from(0) + BTreeHeader::size();
         Self {
             memory: memory.clone(),
             root_addr: header.root_addr,
@@ -835,7 +835,7 @@ impl<M: Memory + Clone> StableBTreeMap<M> {
             _buffer: [0; 24],
         };
 
-        write_struct(&header, Address::from(10), &self.memory);
+        write_struct(&header, Address::from(0), &self.memory);
     }
 }
 

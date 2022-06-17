@@ -1,8 +1,0 @@
-type Chunk = record { chunk_index : nat64; chunk : vec nat8; filename : text };
-service : () -> {
-  commit_batch : (text, vec text, text) -> (text);
-  create_chunk : (Chunk) -> (text);
-  read : (nat64, nat64) -> (vec nat8) query;
-  stablegrow : (nat64) -> (nat64);
-  stablesize : () -> (nat64) query;
-}

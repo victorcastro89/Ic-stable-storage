@@ -1,0 +1,10 @@
+type Result = variant { Ok : User; Err : text };
+type User = record { id : nat64; email : text };
+service : () -> {
+  get_string_by_key : (text) -> (text) query;
+  get_user_by_id : (nat64) -> (Result) query;
+  insert_multiple_users : (nat64, nat64) -> ();
+  insert_string : (text, text) -> (text);
+  read_raw_memory : (nat64, nat64) -> (vec nat8) query;
+  stablesize : () -> (nat64) query;
+}

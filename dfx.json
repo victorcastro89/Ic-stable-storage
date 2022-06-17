@@ -1,15 +1,11 @@
 {
   "canisters": {
-    "example": {
-      "candid": "usage/storage.did",
-      "package": "usage",
-      "type": "rust"
-    },
-    "playground": {
-      "candid": "manager/manager.did",
-      "package": "manager",
+    "stablestorage": {
+      "candid": "storage.did",
+      "package": "sablestorage",
       "type": "rust"
     }
+
   },
   "defaults": {
     "build": {
