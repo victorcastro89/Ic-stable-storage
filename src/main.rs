@@ -4,7 +4,7 @@ mod uuid;
 use ic_cdk::api::stable;
 use ic_cdk::export::candid::candid_method;
 use ic_cdk_macros::{init, query, update};
-use serializekeys::{de_key, de_value, ser_key, ser_value};
+use serializekeys::{de_value, ser_key, ser_value};
 use stable_structures::{StableBTreeMap, StableStorage};
 use std::cell::RefCell;
 use types::User;
