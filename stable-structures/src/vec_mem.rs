@@ -10,7 +10,7 @@ pub type VectorMemory = Rc<RefCell<Vec<u8>>>;
 
 #[derive(Default, Clone)]
 pub struct StableStorage {}
-
+// Simple Adapter to allow stable storage to be used with btreemap
 impl Memory for StableStorage {
     fn size(&self) -> u64 {
         stable::stable64_size()

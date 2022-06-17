@@ -1,3 +1,4 @@
-target/
+/target/
 .dfx/
 .DS_Store
+.vscode
